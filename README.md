@@ -32,7 +32,7 @@ t2: 5
 - add an optional query string parameter that can be added to your server requests to simulate an http 500 error code coming back to the client.
 
 ## Part 3. SQL
-- Obtain a SQL server for our sysem https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+- Obtain a SQL server for your system https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 - Create a new database instance called ae_code_challange
 - Create a new table called server_response_log:
   - pk (primary key,int, not null, auto incrementing)
