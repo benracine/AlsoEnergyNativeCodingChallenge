@@ -4,8 +4,9 @@
 - You will need Visual Studio to complete challenges outlined below. We suggest you utilize one of the community editions provided at https://www.visualstudio.com/downloads/
 - Clone this repo to your local machine
 - Use it to create a new repo on GitHub under your own account (please don't use GitHub fork to accomplish this)
-- Complete the challenges described below. 
-- Send us an email with a link to your repo
+- Complete any of challenges described below or provide an alternative representative sample of code or classes that is solely your work product. 
+  (If you maintain a github project where you are the sole contributor, please feel free to submit a link and description of what we should review in the repository.)
+- Send us an email with a link to your repo and any instructions or details you want to share about key features, performance optimizations or creative problem solving skills that they exemplify.
 
 ## Part 1. Console Application
 - Assume this application will have a high load and focus should be on achieving the best performance.
